@@ -39,7 +39,7 @@ public class Taschenrechner {
 
         System.out.println("es hat funktiioniert");
         System.out.println();
-
+        System.out.println("hehe");
         System.out.println("------------------------------");
         System.out.println("Das Ergebnis ist: " + ergebnis);
 
