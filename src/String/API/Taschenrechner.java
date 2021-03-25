@@ -44,6 +44,7 @@ public class Taschenrechner {
         System.out.println("------------------------------");
         System.out.println("Das Ergebnis ist: " + ergebnis);
 
+        scanner.close();
 
 
 
